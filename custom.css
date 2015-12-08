@@ -96,6 +96,14 @@ body{
   background-color: #d9534f;
   color: #ffffff;
 }
+
+
+@media screen and (max-width: 992px) {
+  .btn{
+    margin-bottom: 20px;
+  }
+}
+
 /*KODE UNTUK OVERVIEW END */
 
 /*KODE UNTUK HIGHLIGHT ISSUES START */
