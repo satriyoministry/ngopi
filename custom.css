@@ -1,0 +1,115 @@
+body{
+  background-color: #282b2e;
+}
+.container{
+  background-color: #ffffff;
+  margin-bottom: 50px;
+}
+/*KODE UNTUK LOGO NGOPI START */
+.judul-atas{
+  background-color: #282b2e;
+  color: #ffffff;
+}
+.judul-atas > div > h1 {
+  font-size: 45px;
+}
+/*KODE UNTUK LOGO NGOPI END */
+
+/*KODE UNTUK COUNTDOWN START */
+.harisisa{
+  margin-bottom: 0px;
+  font-size: 42px;
+}
+.updateterakhir{
+  margin-top: 0px;
+  font-size: 20px;
+}
+/*KODE UNTUK COUNTDOWN END */
+
+.isi{
+  background-color: #ffffff;
+  border-radius: 1px;
+}
+
+/*KODE UNTUK OVERVIEW START */
+.judul{
+  background-color: #000000;
+  border-radius: 5px;
+
+}
+.judul > h2{
+  color: #ffffff;
+  padding: 8px 23px;
+  font-size: 21px;
+}
+
+.konten{
+  background-color: #f4f4f4;
+  color: #3e3e3e;
+  margin: 31px 0px;
+  border-radius: 5px;
+}
+
+.konten-merah{
+  border: solid 1px red;
+  background-color: #fad1d1;
+  color: #3e3e3e;
+  margin: 31px 0px;
+  border-radius: 5px;
+}
+
+.konten-isi{
+  padding: 24px 21px;
+}
+
+.bg-success{
+  background-color: #dff0d8;
+  border-top: 1px solid #5cb85c;
+  border-bottom: 1px solid #5cb85c;
+  padding: 9px;
+  color: #3e3e3e;
+}
+.bg-success:hover{
+  background-color: #5cb85c;
+  color: #ffffff;
+}
+.bg-warning{
+  background-color: #fcf8e3;
+  border-top: 1px solid #f0ad4e;
+  border-bottom: 1px solid #f0ad4e;
+  padding: 9px;
+  color: #3e3e3e;
+}
+.bg-warning:hover{
+  background-color: #f0ad4e;
+  color: #ffffff;
+}
+
+.bg-danger{
+  background-color: #f2dede;
+  border-top: 1px solid #d9534f;
+  border-bottom: 1px solid #d9534f;
+  padding: 9px;
+  color: #3e3e3e;
+}
+.bg-danger:hover{
+  background-color: #d9534f;
+  color: #ffffff;
+}
+/*KODE UNTUK OVERVIEW END */
+
+/*KODE UNTUK HIGHLIGHT ISSUES START */
+
+/*KODE UNTUK HIGHLIGHT ISSUES END */
+
+/*KODE UNTUK MEETING MINUTES START */
+
+/*KODE UNTUK MEETING MINUTES END */
+
+/*KODE UNTUK GENERAL START */
+
+/*KODE UNTUK GENERAL END */
+
+/*KODE UNTUK PRAYER START */
+
+/*KODE UNTUK PRAYER END */
