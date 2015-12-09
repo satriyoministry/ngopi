@@ -344,7 +344,7 @@
       var hariHStr = moment(hariH, 'DD/MM/YYYY').format('dddd DD MMM YYYY')
       var result = moment(hariH, 'DD/MM/YYYY')._d - moment()._d;
       var dayNum = result/1000/60/60/24;
-      var dayStr = (dayNum+0.5).toFixed(0);
+      var dayStr = (dayNum-0.5).toFixed(0);
       $('#daysLeft').text(dayStr);
       $('#daysLeft').parent().attr('title', hariHStr);
     </script>
