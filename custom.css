@@ -10,8 +10,9 @@ body{
   background-color: #282b2e;
   color: #ffffff;
 }
-.judul-atas > div > h1 {
-  font-size: 45px;
+.judulisi {
+  font-size: 39px;
+  margin-bottom: 0px;
 }
 /*KODE UNTUK LOGO NGOPI END */
 
@@ -19,6 +20,10 @@ body{
 .harisisa{
   margin-bottom: 0px;
   font-size: 42px;
+}
+.namaweb{
+  margin-top: 0px;
+  font-size: 28px;
 }
 .updateterakhir{
   margin-top: 0px;
